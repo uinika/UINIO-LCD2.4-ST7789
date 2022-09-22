@@ -1026,6 +1026,7 @@
   )
 
   (no_connect (at 74.93 152.654) (uuid 7f51c04e-2c22-46c6-b4d6-cb07ab3556f9))
+  (no_connect (at 235.458 82.804) (uuid dbd8861d-46df-4f6b-87b9-764565dad912))
 
   (wire (pts (xy 196.088 80.264) (xy 197.358 80.264))
     (stroke (width 0) (type default) (color 0 0 0 0))
