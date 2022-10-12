@@ -1,5 +1,5 @@
-### Module positions - created on Fri Sep 23 01:36:48 2022 ###
-### Printed by Pcbnew version (6.0.7)
+### Module positions - created on Wed Oct 12 18:40:52 2022 ###
+### Printed by Pcbnew version (6.0.8)
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val              Package                                  PosX       PosY       Rot  Side
@@ -29,5 +29,5 @@ R8        10R              R_0603_1608Metric                    147.4800   -91.8
 U1        ME6211C33M5G-N   SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR    181.3200  -117.4340  180.0000  top
 U2        AMS1117          SOT-223-3_L6.6-W3.5-P2.30-LS7.0-BL   180.0500   -92.6100   90.0000  top
 U3        XC6206P332MR     SOT-23-3_L2.9-W1.6-P1.90-LS2.9-BL    163.8200   -91.4150    0.0000  top
-U4        CON_10Pin        LCD-ST7789-10Pin                     182.5200  -105.6400   90.0000  top
+U4        CON_10Pin        LCD-ST7789-10Pin                     181.9100  -105.6400   90.0000  top
 ## End
